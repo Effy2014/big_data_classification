@@ -9,4 +9,5 @@ tranform.py is used to clean posts, including getting stem words and generating 
 model.py includes generating features, applying random forest classification; sentiment analysis is used to get an attitude feature
 
 alchemyapi_python is the api used doing sentiment analysis 
+
 XW
